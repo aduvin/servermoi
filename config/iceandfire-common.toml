@@ -182,6 +182,9 @@
 		"Generate Hydra Caves" = false
 		#True if ghosts can rarely spawn from brutal PvP deaths.
 		"Ghost Spawn from PvP deaths" = false
+		#Dread Lich spawn chance. Lower = higher chance to spawn
+		#Range: 1 ~ 10000
+		"Lich Spawn Chance" = 30
 		#Dread Lich spawn weight. Lower = lower chance to spawn
 		#Range: 1 ~ 10000
 		"Lich Spawn Weight" = 10
@@ -199,14 +202,11 @@
 		"Hydra Caves Gen Chance" = 100
 		#True if dread liches are allowed to spawn
 		"Spawn Liches" = true
+		#Allows attributes for mobs to be overridden via the config file. One might want to disable this if other mods are enabled that change mob attributes e.g armor, health etc...
+		"Allow Attribute Overriding" = true
 		#Maximum ghost health.
 		#Range: 1.0 ~ 10000.0
 		"Ghost Max Health" = 30.0
-		#Dread Lich spawn chance. Lower = higher chance to spawn
-		#Range: 1 ~ 10000
-		"Lich Spawn Chance" = 30
-		#Allows attributes for mobs to be overridden via the config file. One might want to disable this if other mods are enabled that change mob attributes e.g armor, health etc...
-		"Allow Attribute Overriding" = true
 
 	[Mobs.Gorgons]
 		#True if gorgon temples are allowed to spawn
@@ -320,6 +320,8 @@
 		"Trolls Drop Weapon" = true
 
 	[Mobs.Myrmex]
+		#Myrmex hives will ignore daytime
+		"Myrmex Hive Ignore Daytime" = false
 		#How many ticks it takes for a Myrmex to move from a larva to a pupa, and from a pupa to an adult.
 		#Range: 1 ~ 100000
 		"Myrmex Hatch Length" = 35000
@@ -334,14 +336,12 @@
 		#Base Myrmex(worker) attack strength
 		#Range: 1.0 ~ 10000.0
 		"Myrmex Base Attack Strength" = 3.0
-		#How many maximum individuals a myrmex colony can have.
-		#Range: 10 ~ 10000
-		"Myrmex Colony Max Size" = 10
 		#The maximum radius myrmex area allowed to wander/forage
 		#Range: 25 ~ 4000
 		"Myrmex Maximum Wander Radius" = 50
-		#Myrmex hives will ignore daytime
-		"Myrmex Hive Ignore Daytime" = false
+		#How many maximum individuals a myrmex colony can have.
+		#Range: 10 ~ 10000
+		"Myrmex Colony Max Size" = 10
 
 	[Mobs.Hippogryph]
 		#Hippogryph spawn weight. Lower = lower chance to spawn.

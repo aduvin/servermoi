@@ -4,7 +4,7 @@
   "maxDistance": 3,
   "bleedTime": 300,
   "haltBleedTime": true,
-  "reviveItem": "{id:\"item\",item:\"minecraft:paper\"}",
+  "reviveItem": "{item:\"minecraft:paper\",id:\"item\"}",
   "needReviveItem": false,
   "consumeReviveItem": false,
   "healthAfterRevive": 1,

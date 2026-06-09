@@ -26,12 +26,12 @@
 #   - Place a block at y=1 with the grave on top, if the 'scanHeight' were filled with block
 #   - Place a block at y='scanHeight' with the grave on top, if the 'scanHeight' were filled with air
 [position]
+	#The block that should spawn below the grave if there is none
+	floorBlock = "minecraft:dirt"
 	#The scanning start position for a valid place to spawn
 	#Range: 0 ~ 255
 	scanHeight = 60
 	#The vertical range (up/down) from the initial position to scan for a valid spot to place a grave
 	#Range: 0 ~ 255
 	scanRange = 10
-	#The block that should spawn below the grave if there is none
-	floorBlock = "minecraft:dirt"
 

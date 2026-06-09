@@ -12,7 +12,7 @@
 	scaledItemDrops = true
 	keepAllScalesOnRespawn = false
 	scaledMotion = true
+	enableCommands = true
 	scalesKeptOnRespawn = []
 	enableDebugCommands = false
-	enableCommands = true
 

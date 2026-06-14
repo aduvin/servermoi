@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2026-06-14 14:06:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2026-06-13 09:00:21 +0000"
@@ -791,6 +797,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2026-06-14 14:06:06 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_holly_drakkar": {
     "criteria": {
       "in_water": "2026-06-13 07:41:27 +0000"
@@ -1067,6 +1079,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/acacia_post": {
+    "criteria": {
+      "has_item": "2026-06-14 14:06:31 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_larch_drakkar": {
     "criteria": {
       "in_water": "2026-06-13 07:41:27 +0000"
@@ -1268,6 +1286,12 @@
   "mcwbridges:recipes/blackstone_bridge": {
     "criteria": {
       "has_planks": "2026-06-13 08:10:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2026-06-14 14:06:34 +0000"
     },
     "done": true
   },
@@ -3486,6 +3510,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/acacia_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-06-14 14:06:31 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_holly_rowboat": {
     "criteria": {
       "in_water": "2026-06-13 07:41:27 +0000"
@@ -3915,6 +3945,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2026-06-13 08:42:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2026-06-14 14:06:34 +0000"
     },
     "done": true
   },
@@ -4511,6 +4547,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/spear_diamond": {
     "criteria": {
       "has_diamond": "2026-06-13 08:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2026-06-14 14:06:31 +0000"
     },
     "done": true
   },
@@ -5571,6 +5613,12 @@
   "smallships:recipes/lotr_lebethron_cog": {
     "criteria": {
       "in_water": "2026-06-13 07:41:27 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2026-06-14 14:06:31 +0000"
     },
     "done": true
   },

@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2026-06-19 14:22:55 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_rotten_rowboat": {
     "criteria": {
       "in_water": "2026-06-17 06:21:20 +0000"
@@ -104,6 +110,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2026-06-17 07:17:53 +0000"
+    },
+    "done": true
+  },
+  "packedup:diamond_backpack": {
+    "criteria": {
+      "has_backpack": "2026-06-19 14:16:59 +0000"
     },
     "done": true
   },
@@ -257,6 +269,12 @@
     },
     "done": true
   },
+  "packedup:silver_or_gold_backpack": {
+    "criteria": {
+      "has_silver_backpack": "2026-06-19 14:10:39 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/cloggrum_tiles": {
     "criteria": {
       "has_cloggrum_ingot": "2026-06-18 06:30:11 +0000"
@@ -350,6 +368,12 @@
   "smallships:recipes/birch_war_galley": {
     "criteria": {
       "in_water": "2026-06-17 06:21:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2026-06-19 14:30:51 +0000"
     },
     "done": true
   },
@@ -458,6 +482,12 @@
   "smallships:recipes/dark_oak_brigg": {
     "criteria": {
       "in_water": "2026-06-17 06:21:20 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/packedup/diamond_from_silver": {
+    "criteria": {
+      "recipe_condition": "2026-06-19 14:10:39 +0000"
     },
     "done": true
   },
@@ -572,6 +602,12 @@
   "betterendforge:recipes/betterendforge/terminite_leggings": {
     "criteria": {
       "has_terminite_ingot": "2026-06-18 14:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2026-06-19 14:30:51 +0000"
     },
     "done": true
   },
@@ -1313,6 +1349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2026-06-19 15:12:12 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_mahogany_rowboat": {
     "criteria": {
       "in_water": "2026-06-17 06:21:20 +0000"
@@ -1511,6 +1553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2026-06-19 14:30:51 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/silver_diamond_chest": {
     "criteria": {
       "has_item": "2026-06-17 06:51:11 +0000"
@@ -1532,6 +1580,12 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2026-06-17 06:14:59 +0000"
+    },
+    "done": true
+  },
+  "packedup:iron_or_copper_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2026-06-19 14:02:00 +0000"
     },
     "done": true
   },
@@ -1937,6 +1991,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2026-06-19 14:11:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2026-06-17 06:30:31 +0000"
@@ -1952,6 +2012,12 @@
   "undergarden:recipes/undergarden_group/cloggrum_helmet": {
     "criteria": {
       "has_cloggrum_ingot": "2026-06-18 06:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2026-06-19 14:22:55 +0000"
     },
     "done": true
   },
@@ -2472,6 +2538,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2026-06-19 15:12:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2026-06-18 02:51:42 +0000"
@@ -2928,6 +3000,12 @@
     },
     "done": true
   },
+  "packedup:recipes/packedup/silver_from_iron": {
+    "criteria": {
+      "recipe_condition": "2026-06-19 14:02:00 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/terminite_axe_smithing": {
     "criteria": {
       "has_stick": "2026-06-17 06:30:31 +0000"
@@ -3075,6 +3153,12 @@
   "smallships:recipes/lotr_charred_drakkar": {
     "criteria": {
       "in_water": "2026-06-17 06:21:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2026-06-19 14:11:01 +0000"
     },
     "done": true
   },
@@ -3359,6 +3443,12 @@
       "has_netherite_ingot": "2026-06-18 07:15:30 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2026-06-19 14:00:46 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/spartanweaponry.basic/hammer_gold": {
     "criteria": {
@@ -4569,6 +4659,7 @@
       "minecraft:desert_hills": "2026-06-18 06:51:54 +0000",
       "minecraft:giant_tree_taiga": "2026-06-18 06:44:37 +0000",
       "minecraft:desert": "2026-06-18 06:49:03 +0000",
+      "minecraft:deep_lukewarm_ocean": "2026-06-19 14:31:12 +0000",
       "minecraft:beach": "2026-06-18 05:20:08 +0000",
       "minecraft:river": "2026-06-17 06:21:22 +0000",
       "minecraft:lukewarm_ocean": "2026-06-18 05:23:23 +0000"
@@ -4686,6 +4777,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2026-06-17 14:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2026-06-19 15:08:37 +0000"
     },
     "done": true
   },
@@ -5776,6 +5873,12 @@
     },
     "done": true
   },
+  "packedup:recipes/packedup/obsidian_from_diamond": {
+    "criteria": {
+      "recipe_condition": "2026-06-19 14:16:59 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_cedar_rowboat": {
     "criteria": {
       "in_water": "2026-06-17 06:21:20 +0000"
@@ -5791,6 +5894,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2026-06-18 06:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2026-06-19 15:00:17 +0000"
     },
     "done": true
   },
@@ -5896,6 +6005,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2026-06-19 14:53:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2026-06-17 06:58:35 +0000"
@@ -5941,6 +6056,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/javelin_silver": {
     "criteria": {
       "has_silver_ingot": "2026-06-18 05:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2026-06-19 15:12:12 +0000"
     },
     "done": true
   },
@@ -6286,6 +6407,12 @@
     },
     "done": true
   },
+  "packedup:recipes/packedup/gold_from_iron": {
+    "criteria": {
+      "recipe_condition": "2026-06-19 14:02:00 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/birch_rowboat": {
     "criteria": {
       "in_water": "2026-06-17 06:21:20 +0000"
@@ -6421,6 +6548,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/heavy_crossbow_diamond": {
     "criteria": {
       "has_diamond": "2026-06-17 06:51:11 +0000"
+    },
+    "done": true
+  },
+  "packedup:obsidian_backpack": {
+    "criteria": {
+      "has_backpack": "2026-06-19 14:17:12 +0000"
     },
     "done": true
   },

@@ -503,6 +503,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2026-06-19 13:49:33 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_apple_dhow": {
     "criteria": {
       "in_water": "2026-06-17 06:15:34 +0000"
@@ -719,6 +725,12 @@
     },
     "done": true
   },
+  "packedup:basic_backpack": {
+    "criteria": {
+      "has_backpack": "2026-06-19 13:51:04 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/sail_item": {
     "criteria": {
       "in_water": "2026-06-17 06:15:34 +0000"
@@ -752,6 +764,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2026-06-18 05:20:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2026-06-19 14:24:20 +0000"
     },
     "done": true
   },
@@ -1208,6 +1226,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/pike_gold": {
     "criteria": {
       "has_gold_ingot": "2026-06-18 06:30:16 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/packedup/iron_from_basic": {
+    "criteria": {
+      "recipe_condition": "2026-06-19 13:51:04 +0000"
     },
     "done": true
   },
@@ -2334,7 +2358,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "pumpkin_pie": "2026-06-17 06:30:34 +0000"
+      "pumpkin_pie": "2026-06-17 06:30:34 +0000",
+      "cooked_chicken": "2026-06-19 14:24:25 +0000"
     },
     "done": false
   },
@@ -3149,6 +3174,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2026-06-19 14:24:20 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_magic_cog": {
     "criteria": {
       "in_water": "2026-06-17 06:15:34 +0000"
@@ -3278,6 +3309,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2026-06-17 06:42:55 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/packedup/copper_from_basic": {
+    "criteria": {
+      "recipe_condition": "2026-06-19 13:51:04 +0000"
     },
     "done": true
   },
@@ -4052,6 +4089,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2026-06-17 06:20:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/barbecue_stick": {
+    "criteria": {
+      "has_cooked_chicken": "2026-06-19 14:24:20 +0000"
     },
     "done": true
   },

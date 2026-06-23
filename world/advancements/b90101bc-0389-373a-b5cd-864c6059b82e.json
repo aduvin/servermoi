@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2026-06-22 03:03:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2026-06-21 01:39:04 +0000"
@@ -104,6 +110,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2026-06-21 08:47:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-06-22 16:47:36 +0000"
     },
     "done": true
   },
@@ -134,6 +146,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2026-06-20 23:53:50 +0000"
+    },
+    "done": true
+  },
+  "packedup:diamond_backpack": {
+    "criteria": {
+      "has_backpack": "2026-06-22 06:03:40 +0000"
     },
     "done": true
   },
@@ -206,6 +224,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2026-06-21 07:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-06-22 16:47:36 +0000"
     },
     "done": true
   },
@@ -296,6 +320,18 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2026-06-20 05:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-06-22 03:20:00 +0000"
+    },
+    "done": true
+  },
+  "packedup:silver_or_gold_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2026-06-22 06:01:45 +0000"
     },
     "done": true
   },
@@ -446,6 +482,12 @@
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2026-06-21 07:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2026-06-21 16:14:16 +0000"
     },
     "done": true
   },
@@ -629,6 +671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2026-06-22 16:46:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2026-06-21 03:41:48 +0000"
@@ -701,6 +749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2026-06-21 17:00:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2026-06-20 05:22:28 +0000"
@@ -725,6 +779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2026-06-21 16:14:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2026-06-21 07:43:42 +0000"
@@ -740,6 +800,18 @@
   "mcwroofs:recipes/acacia_planks": {
     "criteria": {
       "has_planks": "2026-06-21 07:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2026-06-21 16:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2026-06-22 03:17:24 +0000"
     },
     "done": true
   },
@@ -839,6 +911,12 @@
     },
     "done": true
   },
+  "betterendforge:recipes/betterendforge/diorite_pedestal": {
+    "criteria": {
+      "has_diorite_pillar": "2026-06-22 03:17:24 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_cypress_war_galley": {
     "criteria": {
       "in_water": "2026-06-19 15:58:48 +0000"
@@ -917,6 +995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2026-06-22 03:01:48 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/scythe_netherite_smithing": {
     "criteria": {
       "has_netherite_ingot": "2026-06-21 07:43:42 +0000"
@@ -941,9 +1025,27 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2026-06-22 15:20:12 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/quarterstaff_diamond": {
     "criteria": {
       "has_diamond": "2026-06-20 05:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2026-06-22 05:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2026-06-22 03:17:24 +0000"
     },
     "done": true
   },
@@ -1019,6 +1121,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2026-06-21 16:39:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2026-06-20 05:52:14 +0000"
@@ -1066,6 +1174,12 @@
       "has_thallasium_ingot": "2026-06-20 05:59:04 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "in_shipwreck_crimson": "2026-06-22 16:46:03 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/spartanweaponry.modded/throwing_knife_copper": {
     "criteria": {
@@ -1120,6 +1234,12 @@
       "has_smoked_ham": "2026-06-21 06:21:49 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_oak": "2026-06-22 05:10:49 +0000"
+    },
+    "done": false
   },
   "smallships:recipes/lotr_aspen_brigg": {
     "criteria": {
@@ -1199,6 +1319,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2026-06-22 16:46:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2026-06-21 02:57:21 +0000"
@@ -1208,6 +1334,18 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2026-06-21 05:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2026-06-21 16:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2026-06-22 16:46:12 +0000"
     },
     "done": true
   },
@@ -1238,6 +1376,18 @@
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2026-06-21 07:43:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-06-22 16:47:36 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2026-06-21 16:14:40 +0000"
     },
     "done": true
   },
@@ -1289,9 +1439,21 @@
     },
     "done": true
   },
+  "dungeons_enhanced:traps_and_curses": {
+    "criteria": {
+      "entered_desert_temple": "2026-06-22 03:19:15 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/dark_oak_log_bridge_middle": {
     "criteria": {
       "has_planks": "2026-06-21 02:13:20 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/crimson_rail_bridge": {
+    "criteria": {
+      "has_planks": "2026-06-22 16:46:12 +0000"
     },
     "done": true
   },
@@ -1358,6 +1520,12 @@
   "mcwbridges:recipes/blackstone_bridge": {
     "criteria": {
       "has_planks": "2026-06-21 06:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2026-06-21 16:19:34 +0000"
     },
     "done": true
   },
@@ -1751,6 +1919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2026-06-22 05:35:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2026-06-20 06:19:59 +0000"
@@ -1790,6 +1964,18 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2026-06-20 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2026-06-21 16:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-06-22 05:35:00 +0000"
     },
     "done": true
   },
@@ -1841,6 +2027,12 @@
     },
     "done": true
   },
+  "relics:obtain/midnight_robe": {
+    "criteria": {
+      "obtain_relic": "2026-06-21 17:01:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_nugget": "2026-06-20 05:22:28 +0000"
@@ -1866,6 +2058,12 @@
       "minecraft:warped_forest": "2026-06-21 06:16:29 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2026-06-22 03:10:51 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
@@ -1930,6 +2128,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2026-06-19 15:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2026-06-22 03:01:48 +0000"
     },
     "done": true
   },
@@ -2041,6 +2245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2026-06-21 17:00:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2026-06-20 05:41:56 +0000"
@@ -2062,6 +2272,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2026-06-21 06:14:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2026-06-22 02:57:21 +0000"
     },
     "done": true
   },
@@ -2092,6 +2308,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2026-06-20 05:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2026-06-21 17:00:11 +0000"
     },
     "done": true
   },
@@ -2191,6 +2413,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2026-06-21 16:05:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2026-06-20 05:41:56 +0000"
@@ -2212,6 +2440,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2026-06-19 16:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2026-06-21 17:00:10 +0000"
     },
     "done": true
   },
@@ -2281,6 +2515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2026-06-22 03:38:15 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/cestus": {
     "criteria": {
       "has_leather": "2026-06-20 23:53:50 +0000"
@@ -2308,6 +2548,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2026-06-21 07:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2026-06-22 03:20:00 +0000"
     },
     "done": true
   },
@@ -2398,6 +2644,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/javelin_copper": {
     "criteria": {
       "has_copper_ingot": "2026-06-21 01:15:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2026-06-22 03:32:23 +0000"
     },
     "done": true
   },
@@ -2498,6 +2750,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2026-06-21 17:09:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_netherite_smithing": {
     "criteria": {
       "has_netherite_ingot": "2026-06-21 07:43:42 +0000"
@@ -2518,6 +2776,7 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
+      "wither_skeleton_skull": "2026-06-21 17:09:50 +0000",
       "skeleton_skull": "2026-06-21 05:58:36 +0000"
     },
     "done": false
@@ -2597,6 +2856,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2026-06-20 05:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2026-06-21 17:00:10 +0000"
     },
     "done": true
   },
@@ -2894,6 +3159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2026-06-22 03:20:00 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/warhammer_iron": {
     "criteria": {
       "has_iron_ingot": "2026-06-20 05:22:28 +0000"
@@ -2945,6 +3216,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2026-06-20 05:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2026-06-22 03:17:24 +0000"
     },
     "done": true
   },
@@ -3092,6 +3369,12 @@
     },
     "done": true
   },
+  "betterendforge:recipes/betterendforge/terminite_nugget_from_blasting": {
+    "criteria": {
+      "has_terminite_chestplate": "2026-06-21 15:45:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks": {
     "criteria": {
       "has_mossy_cobblestone": "2026-06-20 05:47:46 +0000"
@@ -3128,6 +3411,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2026-06-22 03:19:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/crimson_pantry": {
+    "criteria": {
+      "has_crimson_trapdoor": "2026-06-22 04:23:14 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/cloggrum_boots": {
     "criteria": {
       "has_cloggrum_ingot": "2026-06-20 05:59:04 +0000"
@@ -3143,6 +3438,12 @@
   "farmersdelight:recipes/farmersdelight/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2026-06-20 05:59:28 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/crimson_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2026-06-22 16:46:12 +0000"
     },
     "done": true
   },
@@ -3203,6 +3504,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/longsword_copper": {
     "criteria": {
       "has_copper_ingot": "2026-06-21 01:15:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2026-06-22 03:31:46 +0000"
     },
     "done": true
   },
@@ -3656,6 +3963,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2026-06-21 17:14:16 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_lebethron_rowboat": {
     "criteria": {
       "in_water": "2026-06-19 15:58:48 +0000"
@@ -3728,6 +4041,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-06-22 16:47:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2026-06-21 06:17:06 +0000"
@@ -3764,6 +4083,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_desert_temple": "2026-06-22 03:19:15 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2026-06-21 04:17:20 +0000"
@@ -3794,6 +4119,12 @@
     },
     "done": true
   },
+  "endrem:main/cold_eye": {
+    "criteria": {
+      "cold_eye": "2026-06-22 05:25:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2026-06-21 01:37:11 +0000"
@@ -3803,6 +4134,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_dark_prismarine": "2026-06-21 07:08:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2026-06-22 03:01:42 +0000"
     },
     "done": true
   },
@@ -3926,6 +4263,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "axe": "2026-06-22 05:40:14 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_holly_rowboat": {
     "criteria": {
       "in_water": "2026-06-19 15:58:48 +0000"
@@ -4007,6 +4350,12 @@
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2026-06-20 05:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2026-06-22 03:01:48 +0000"
     },
     "done": true
   },
@@ -4124,6 +4473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2026-06-22 02:46:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/pie_crust": {
     "criteria": {
       "has_wheat": "2026-06-19 16:03:37 +0000"
@@ -4147,6 +4502,12 @@
       "diamond_chestplate": "2026-06-21 01:33:50 +0000"
     },
     "done": true
+  },
+  "undergarden:undergarden/slay_all_rotspawn": {
+    "criteria": {
+      "slay_rotling": "2026-06-22 06:29:08 +0000"
+    },
+    "done": false
   },
   "smallships:recipes/bop_palm_rowboat": {
     "criteria": {
@@ -4181,6 +4542,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2026-06-21 02:13:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rice_bag": {
+    "criteria": {
+      "has_rice": "2026-06-21 17:00:10 +0000"
     },
     "done": true
   },
@@ -4220,6 +4587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-06-22 16:46:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2026-06-20 05:47:46 +0000"
@@ -4242,6 +4615,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2026-06-20 06:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2026-06-22 16:46:12 +0000"
     },
     "done": true
   },
@@ -4401,12 +4780,26 @@
     },
     "done": true
   },
+  "betterendforge:recipes/betterendforge/terminite_nugget_from_smelting": {
+    "criteria": {
+      "has_terminite_chestplate": "2026-06-21 15:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2026-06-22 04:46:05 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2026-06-21 06:56:33 +0000",
       "entered_stables": "2026-06-21 04:11:32 +0000",
+      "entered_pirate_ship": "2026-06-22 03:08:34 +0000",
       "entered_fishing_ship": "2026-06-21 05:27:18 +0000",
       "entered_druid_circle": "2026-06-21 05:03:04 +0000",
+      "entered_desert_temple": "2026-06-22 03:19:15 +0000",
       "entered_sunken_shrine": "2026-06-21 05:39:51 +0000"
     },
     "done": false
@@ -4495,6 +4888,12 @@
     },
     "done": true
   },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2026-06-22 03:11:37 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_dead_dhow": {
     "criteria": {
       "in_water": "2026-06-19 15:58:48 +0000"
@@ -4558,6 +4957,12 @@
   "smallships:recipes/bop_mahogany_galley": {
     "criteria": {
       "in_water": "2026-06-19 15:58:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2026-06-21 16:17:40 +0000"
     },
     "done": true
   },
@@ -4653,6 +5058,7 @@
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
+      "in_mineshaft_ocean": "2026-06-22 06:21:26 +0000",
       "in_mineshaft_nether": "2026-06-21 08:50:09 +0000"
     },
     "done": false
@@ -4730,9 +5136,12 @@
       "minecraft:hoglin": "2026-06-21 01:53:11 +0000",
       "minecraft:guardian": "2026-06-21 01:28:54 +0000",
       "minecraft:vindicator": "2026-06-21 04:23:39 +0000",
+      "minecraft:magma_cube": "2026-06-21 16:19:59 +0000",
       "minecraft:spider": "2026-06-21 04:14:48 +0000",
       "minecraft:piglin_brute": "2026-06-21 06:17:36 +0000",
+      "minecraft:creeper": "2026-06-21 16:28:43 +0000",
       "minecraft:slime": "2026-06-21 07:07:00 +0000",
+      "minecraft:evoker": "2026-06-22 03:11:37 +0000",
       "minecraft:witch": "2026-06-21 04:08:52 +0000",
       "minecraft:wither_skeleton": "2026-06-21 01:52:40 +0000",
       "minecraft:husk": "2026-06-21 01:49:42 +0000",
@@ -4745,6 +5154,12 @@
       "minecraft:zombie_villager": "2026-06-21 06:57:51 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-06-22 05:35:00 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
@@ -4782,6 +5197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_crimson_planks": "2026-06-22 16:46:12 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_cherry_brigg": {
     "criteria": {
       "in_water": "2026-06-19 15:58:48 +0000"
@@ -4815,6 +5236,18 @@
   "smallships:recipes/lotr_maple_war_galley": {
     "criteria": {
       "in_water": "2026-06-19 15:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2026-06-22 03:17:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-06-22 05:35:00 +0000"
     },
     "done": true
   },
@@ -4920,6 +5353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2026-06-21 16:39:08 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_fir_drakkar": {
     "criteria": {
       "in_water": "2026-06-19 15:58:48 +0000"
@@ -4959,6 +5398,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2026-06-21 07:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2026-06-21 17:14:16 +0000"
     },
     "done": true
   },
@@ -5010,6 +5455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2026-06-22 03:11:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/tomahawk_netherite_smithing": {
     "criteria": {
       "has_netherite_ingot": "2026-06-21 07:43:42 +0000"
@@ -5046,6 +5497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2026-06-22 03:17:24 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_lairelosse_galley": {
     "criteria": {
       "in_water": "2026-06-19 15:58:48 +0000"
@@ -5067,6 +5524,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-06-21 06:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-06-22 16:46:12 +0000"
     },
     "done": true
   },
@@ -5128,6 +5591,12 @@
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_wood": {
     "criteria": {
       "has_bow": "2026-06-20 06:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2026-06-22 04:46:05 +0000"
     },
     "done": true
   },
@@ -5251,6 +5720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-06-22 05:35:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2026-06-20 05:26:42 +0000"
@@ -5365,6 +5840,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2026-06-22 04:30:21 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:small_dungeon": {
     "criteria": {
       "in_better_monster_room": "2026-06-21 06:41:36 +0000"
@@ -5380,6 +5861,18 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2026-06-20 05:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2026-06-21 16:39:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2026-06-22 03:10:51 +0000"
     },
     "done": true
   },
@@ -5422,6 +5915,12 @@
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2026-06-21 06:21:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2026-06-22 03:20:00 +0000"
     },
     "done": true
   },
@@ -5516,6 +6015,7 @@
       "minecraft:badlands_plateau": "2026-06-21 02:35:14 +0000",
       "minecraft:mountains": "2026-06-21 05:19:39 +0000",
       "minecraft:taiga": "2026-06-21 07:33:24 +0000",
+      "minecraft:desert_hills": "2026-06-21 16:17:44 +0000",
       "minecraft:giant_tree_taiga": "2026-06-21 07:31:55 +0000",
       "minecraft:deep_cold_ocean": "2026-06-19 16:02:51 +0000",
       "minecraft:taiga_hills": "2026-06-21 07:33:22 +0000",
@@ -5675,6 +6175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2026-06-22 03:20:04 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_apple_drakkar": {
     "criteria": {
       "in_water": "2026-06-19 15:58:48 +0000"
@@ -5765,6 +6271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2026-06-21 17:00:11 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/terminite_trapdoor": {
     "criteria": {
       "has_terminite_ingot": "2026-06-20 05:59:04 +0000"
@@ -5789,6 +6301,12 @@
     },
     "done": true
   },
+  "relics:obtain/magic_mirror": {
+    "criteria": {
+      "obtain_relic": "2026-06-21 17:01:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2026-06-21 05:03:18 +0000"
@@ -5810,6 +6328,12 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2026-06-21 07:03:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2026-06-22 02:57:38 +0000"
     },
     "done": true
   },
@@ -5852,6 +6376,12 @@
   "smallships:recipes/lotr_lairelosse_drakkar": {
     "criteria": {
       "in_water": "2026-06-19 15:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2026-06-21 16:19:34 +0000"
     },
     "done": true
   },
@@ -5951,6 +6481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2026-06-22 03:10:51 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_cedar_cog": {
     "criteria": {
       "in_water": "2026-06-19 15:58:48 +0000"
@@ -6017,9 +6553,21 @@
     },
     "done": true
   },
+  "undergarden:undergarden/slay_rotling": {
+    "criteria": {
+      "slay_rotling": "2026-06-22 06:29:08 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/tomahawk_copper": {
     "criteria": {
       "has_copper_ingot": "2026-06-21 01:15:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2026-06-22 06:23:30 +0000"
     },
     "done": true
   },
@@ -6101,6 +6649,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-06-22 05:35:00 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/find_end_castle": {
+    "criteria": {
+      "in_end_castle": "2026-06-22 04:59:23 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_umbran_brigg": {
     "criteria": {
       "in_water": "2026-06-19 15:58:48 +0000"
@@ -6159,6 +6719,7 @@
     "criteria": {
       "cooked_porkchop": "2026-06-20 05:49:13 +0000",
       "honey_bottle": "2026-06-20 05:46:12 +0000",
+      "cooked_mutton": "2026-06-22 05:04:08 +0000",
       "cooked_beef": "2026-06-21 01:56:51 +0000",
       "baked_potato": "2026-06-20 05:43:18 +0000",
       "apple": "2026-06-19 15:56:35 +0000",
@@ -6237,6 +6798,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/longbow_netherite_smithing": {
     "criteria": {
       "has_netherite_ingot": "2026-06-21 07:43:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-06-22 16:47:36 +0000"
     },
     "done": true
   },
@@ -6321,6 +6888,18 @@
   "spartanweaponry:recipes/spartanweaponry.basic/throwing_knife_iron": {
     "criteria": {
       "has_iron_ingot": "2026-06-20 05:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-06-22 03:17:24 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/crimson_planks": {
+    "criteria": {
+      "has_planks": "2026-06-22 16:46:12 +0000"
     },
     "done": true
   },
@@ -6471,6 +7050,18 @@
   "smallships:recipes/bop_hellbark_drakkar": {
     "criteria": {
       "in_water": "2026-06-19 15:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2026-06-22 16:46:12 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ahoy": {
+    "criteria": {
+      "entered_pirate_ship": "2026-06-22 03:08:34 +0000"
     },
     "done": true
   },
@@ -6669,6 +7260,12 @@
   "undergarden:recipes/undergarden_group/cloggrum_sword": {
     "criteria": {
       "has_cloggrum_ingot": "2026-06-20 05:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-06-22 16:46:12 +0000"
     },
     "done": true
   },
@@ -6924,6 +7521,12 @@
     },
     "done": true
   },
+  "packedup:recipes/packedup/diamond_from_gold": {
+    "criteria": {
+      "recipe_condition": "2026-06-22 06:01:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2026-06-21 05:42:27 +0000"
@@ -6951,6 +7554,18 @@
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_iron": {
     "criteria": {
       "has_bow": "2026-06-20 06:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2026-06-22 03:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-06-22 03:17:24 +0000"
     },
     "done": true
   },
@@ -7014,6 +7629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-06-22 16:47:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2026-06-21 05:42:27 +0000"
@@ -7035,6 +7656,12 @@
   "betterendforge:recipes/betterendforge/thallasium_chain": {
     "criteria": {
       "has_thallasium_ingot": "2026-06-20 05:59:04 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/packedup/obsidian_from_diamond": {
+    "criteria": {
+      "recipe_condition": "2026-06-22 06:03:40 +0000"
     },
     "done": true
   },
@@ -7326,6 +7953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2026-06-21 17:09:50 +0000"
+    },
+    "done": true
+  },
   "twist:dermatologist": {
     "criteria": {
       "dermatologist": "2026-06-21 09:45:12 +0000"
@@ -7407,6 +8040,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/scythe_wood": {
     "criteria": {
       "has_wood": "2026-06-19 15:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2026-06-21 17:14:16 +0000"
     },
     "done": true
   },
@@ -7506,6 +8145,12 @@
     },
     "done": true
   },
+  "spartanweaponry:boomerang": {
+    "criteria": {
+      "has_boomerang": "2026-06-21 16:06:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2026-06-21 02:13:20 +0000"
@@ -7563,6 +8208,12 @@
   "betterendforge:recipes/betterendforge/aeternium_boots_smithing": {
     "criteria": {
       "has_aeternium_ingot": "2026-06-21 01:31:26 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/witch_eye": {
+    "criteria": {
+      "witch_eye": "2026-06-22 05:41:55 +0000"
     },
     "done": true
   },
@@ -7752,6 +8403,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/rope_crimson_bridge": {
+    "criteria": {
+      "has_planks": "2026-06-22 16:46:12 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_magic_drakkar": {
     "criteria": {
       "in_water": "2026-06-19 15:58:48 +0000"
@@ -7833,6 +8490,12 @@
   "smallships:recipes/bop_hellbark_galley": {
     "criteria": {
       "in_water": "2026-06-19 15:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2026-06-21 17:00:11 +0000"
     },
     "done": true
   },

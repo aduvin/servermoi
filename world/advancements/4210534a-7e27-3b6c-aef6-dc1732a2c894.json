@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2026-06-21 15:31:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_gold": {
     "criteria": {
       "has_gold_ingot": "2026-06-17 05:22:10 +0000"
@@ -353,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-06-21 16:26:24 +0000"
+    },
+    "done": true
+  },
   "packedup:silver_or_gold_backpack": {
     "criteria": {
       "has_gold_backpack": "2026-06-20 02:13:42 +0000"
@@ -488,6 +500,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
       "has_red_sandstone": "2026-06-21 08:18:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2026-06-21 16:00:10 +0000"
     },
     "done": true
   },
@@ -983,6 +1001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2026-06-21 15:31:35 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_charred_galley": {
     "criteria": {
       "in_water": "2026-06-17 05:21:23 +0000"
@@ -1124,6 +1148,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2026-06-17 05:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2026-06-21 15:58:06 +0000"
     },
     "done": true
   },
@@ -2551,6 +2581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2026-06-21 16:26:24 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/cloggrum_helmet": {
     "criteria": {
       "has_cloggrum_ingot": "2026-06-18 06:18:49 +0000"
@@ -3176,6 +3212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2026-06-21 16:26:24 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/warhammer_iron": {
     "criteria": {
       "has_iron_ingot": "2026-06-17 05:35:23 +0000"
@@ -3227,6 +3269,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2026-06-17 06:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2026-06-22 16:30:06 +0000"
     },
     "done": true
   },
@@ -3956,6 +4004,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2026-06-21 16:00:10 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/thallasium_axe_smithing": {
     "criteria": {
       "has_stick": "2026-06-17 05:18:16 +0000"
@@ -4337,6 +4391,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2026-06-17 05:35:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2026-06-21 15:31:35 +0000"
     },
     "done": true
   },
@@ -4814,6 +4874,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_pirate_ship": "2026-06-21 15:32:59 +0000"
+    },
+    "done": false
+  },
   "smallships:recipes/lotr_apple_dhow": {
     "criteria": {
       "in_water": "2026-06-17 05:21:23 +0000"
@@ -5054,6 +5120,12 @@
     },
     "done": true
   },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_ocean": "2026-06-22 16:18:27 +0000"
+    },
+    "done": false
+  },
   "dungeons_arise:find_bandit_towers": {
     "criteria": {
       "location0": "2026-06-21 02:05:22 +0000"
@@ -5120,6 +5192,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2026-06-21 15:31:35 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/diamond_hammer": {
     "criteria": {
       "has_diamond_ingot": "2026-06-17 05:42:39 +0000"
@@ -5136,6 +5214,7 @@
       "minecraft:magma_cube": "2026-06-20 02:24:14 +0000",
       "minecraft:spider": "2026-06-17 06:36:21 +0000",
       "minecraft:piglin_brute": "2026-06-18 02:41:58 +0000",
+      "minecraft:creeper": "2026-06-21 15:29:59 +0000",
       "minecraft:phantom": "2026-06-21 07:09:12 +0000",
       "minecraft:witch": "2026-06-18 03:12:37 +0000",
       "minecraft:wither_skeleton": "2026-06-18 06:45:47 +0000",
@@ -5144,7 +5223,9 @@
       "minecraft:piglin": "2026-06-18 02:46:19 +0000",
       "minecraft:silverfish": "2026-06-17 07:04:29 +0000",
       "minecraft:stray": "2026-06-17 06:40:53 +0000",
+      "minecraft:vex": "2026-06-21 15:35:13 +0000",
       "minecraft:zombie": "2026-06-17 06:35:51 +0000",
+      "minecraft:drowned": "2026-06-21 15:29:31 +0000",
       "minecraft:zombie_villager": "2026-06-21 07:00:53 +0000"
     },
     "done": false
@@ -5341,6 +5422,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2026-06-21 15:58:06 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_fir_drakkar": {
     "criteria": {
       "in_water": "2026-06-17 05:21:23 +0000"
@@ -5413,6 +5500,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_pirate_ship": "2026-06-21 15:32:59 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/oak_brigg": {
     "criteria": {
       "in_water": "2026-06-17 05:21:23 +0000"
@@ -5422,6 +5515,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/greatsword_silver": {
     "criteria": {
       "has_silver_ingot": "2026-06-18 06:18:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2026-06-21 15:58:19 +0000"
     },
     "done": true
   },
@@ -5798,6 +5897,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2026-06-21 15:58:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2026-06-20 02:38:10 +0000"
@@ -5819,6 +5924,12 @@
   "betterdungeons:root": {
     "criteria": {
       "always": "2026-06-17 04:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2026-06-21 16:26:24 +0000"
     },
     "done": true
   },
@@ -5908,6 +6019,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2026-06-21 16:22:18 +0000",
       "minecraft:forest": "2026-06-17 05:21:27 +0000",
       "minecraft:mountains": "2026-06-20 02:11:26 +0000",
       "minecraft:badlands_plateau": "2026-06-21 02:34:49 +0000",
@@ -5917,6 +6029,7 @@
       "minecraft:taiga_hills": "2026-06-21 07:31:06 +0000",
       "minecraft:desert": "2026-06-17 06:16:57 +0000",
       "minecraft:jungle": "2026-06-17 06:43:29 +0000",
+      "minecraft:birch_forest": "2026-06-21 15:46:05 +0000",
       "minecraft:warm_ocean": "2026-06-21 01:32:24 +0000",
       "minecraft:deep_lukewarm_ocean": "2026-06-17 06:58:00 +0000",
       "minecraft:badlands": "2026-06-21 01:49:21 +0000",
@@ -5925,6 +6038,7 @@
       "minecraft:river": "2026-06-17 05:21:48 +0000",
       "minecraft:lukewarm_ocean": "2026-06-17 06:51:45 +0000",
       "minecraft:snowy_taiga": "2026-06-17 05:55:26 +0000",
+      "minecraft:birch_forest_hills": "2026-06-21 15:54:22 +0000",
       "minecraft:stone_shore": "2026-06-20 02:11:24 +0000",
       "minecraft:giant_tree_taiga_hills": "2026-06-21 07:30:36 +0000",
       "minecraft:wooded_badlands_plateau": "2026-06-21 01:49:08 +0000",
@@ -6328,6 +6442,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2026-06-17 06:01:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2026-06-21 15:58:19 +0000"
     },
     "done": true
   },
@@ -6917,6 +7037,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:ahoy": {
+    "criteria": {
+      "entered_pirate_ship": "2026-06-21 15:32:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2026-06-17 06:32:01 +0000"
@@ -6938,6 +7064,12 @@
   "undergarden:recipes/undergarden_group/cloggrum_leggings": {
     "criteria": {
       "has_cloggrum_ingot": "2026-06-18 06:18:49 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/slime_heart": {
+    "criteria": {
+      "obtain_relic": "2026-06-21 16:18:13 +0000"
     },
     "done": true
   },
@@ -7519,6 +7651,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2026-06-21 15:58:19 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/thallasium_chain": {
     "criteria": {
       "has_thallasium_ingot": "2026-06-18 06:18:41 +0000"
@@ -7984,6 +8122,12 @@
   "smallships:recipes/bop_willow_dhow": {
     "criteria": {
       "in_water": "2026-06-17 05:21:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2026-06-21 15:31:35 +0000"
     },
     "done": true
   },
